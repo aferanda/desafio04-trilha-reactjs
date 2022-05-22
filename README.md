@@ -1,7 +1,9 @@
 ## 🎖 Desafio 04 Ignite: Refactoring de classes e typescript
 
-Nesse desafio, o objetivo era realizar dois processos de migração: de Javascript para Typescript e de Class Components para Function Components.
+Nesse desafio, o objetivo era realizar dois processos de migração: 
+  - Javascript para Typescript
+  - Class Components para Function Components
 
 <p align="center">
-  <img src="https://file%2B.vscode-resource.vscode-cdn.net/var/folders/vs/l108pwhj2j176knyf3_pldt40000gn/T/TemporaryItems/NSIRD_screencaptureui_3RW98p/Screen%20Shot%202022-05-22%20at%2015.40.25.png?version%3D1653244842237" alt="GoRestaurant">
+  <img width="1433" alt="GoRestaurant" src="https://user-images.githubusercontent.com/69002185/169710925-4003505e-eeaa-4f4c-bab4-565f4dc02e59.png">
 </p>
